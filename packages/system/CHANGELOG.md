@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.7.1
+
+### Patch Changes
+
+- [`56e99313e`](https://github.com/chakra-ui/chakra-ui/commit/56e99313e1177978c9842e55696be15c5bbfe8d9)
+  [#4265](https://github.com/chakra-ui/chakra-ui/pull/4265) Thanks
+  [@m0nae](https://github.com/m0nae)! - Fix issue where undefined style props
+  (such as `borderRadius`) would not fallback to the default styles
+
 ## 1.7.0
 
 ### Minor Changes
